@@ -9,7 +9,7 @@ Hey folks! I've always been passionate about the technology field, and nowadays,
 <h2 align="center">Contact</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-gabriel-509ba7260/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngeloGbiel?tab=repositories)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahbiel_/)
 [![GMAIL](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelog.iff@gmail.com)
 </div>
